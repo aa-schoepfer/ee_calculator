@@ -23,3 +23,6 @@ This Streamlit app performs various enantiomeric and diastereomeric calculations
     streamlit run ee_streamlit.py
     ```
 
+## Try it on Streamlit
+
+Follow this [Link](https://aa-schoepfer-ee-calculator-ee-streamlit-hrhdfi.streamlit.app/) to access an online version of the app.
